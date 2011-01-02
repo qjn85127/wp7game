@@ -1,0 +1,14 @@
+Content\Plane\Player.xnb
+Content\Bullet\PlayerBullet.xnb
+Content\ControlButton\ArrowDown.xnb
+Content\ControlButton\ArrowLeft.xnb
+Content\ControlButton\ArrowRight.xnb
+Content\ControlButton\ArrowUp.xnb
+Content\Enemy\Enemy.xnb
+Content\Plane\Player.png
+Content\Bullet\PlayerBullet.png
+Content\ControlButton\ArrowDown.png
+Content\ControlButton\ArrowLeft.png
+Content\ControlButton\ArrowRight.png
+Content\ControlButton\ArrowUp.png
+Content\Enemy\Enemy.png

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Plane\Player.png</Source>
+      <Name>Plane\Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\@CODE\INCOMING\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\bin\Windows Phone\Debug\Content\Plane\Player.xnb</Output>
+      <Time>2010-12-30T21:47:38.4524525+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Bullet\PlayerBullet.png</Source>
+      <Name>Bullet\PlayerBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\@CODE\INCOMING\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\bin\Windows Phone\Debug\Content\Bullet\PlayerBullet.xnb</Output>
+      <Time>2011-01-02T00:27:18.1061739+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ControlButton\ArrowDown.png</Source>
+      <Name>ControlButton\ArrowDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\@CODE\INCOMING\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\bin\Windows Phone\Debug\Content\ControlButton\ArrowDown.xnb</Output>
+      <Time>2011-01-01T20:38:00.0262567+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ControlButton\ArrowLeft.png</Source>
+      <Name>ControlButton\ArrowLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\@CODE\INCOMING\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\bin\Windows Phone\Debug\Content\ControlButton\ArrowLeft.xnb</Output>
+      <Time>2011-01-01T20:38:00.0272568+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ControlButton\ArrowRight.png</Source>
+      <Name>ControlButton\ArrowRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\@CODE\INCOMING\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\bin\Windows Phone\Debug\Content\ControlButton\ArrowRight.xnb</Output>
+      <Time>2011-01-01T20:38:00.0392574+08:00</Time>
+    </Item>
+    <Item>
+      <Source>ControlButton\ArrowUp.png</Source>
+      <Name>ControlButton\ArrowUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\@CODE\INCOMING\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\bin\Windows Phone\Debug\Content\ControlButton\ArrowUp.xnb</Output>
+      <Time>2011-01-01T20:38:00.0572585+08:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemy\Enemy.png</Source>
+      <Name>Enemy\Enemy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\@CODE\INCOMING\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\bin\Windows Phone\Debug\Content\Enemy\Enemy.xnb</Output>
+      <Time>2011-01-02T03:04:16.9028982+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\@CODE\INCOMING\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGameContent\</RootDirectory>
+      <LoggerRootDirectory>F:\@CODE\INCOMING\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\@CODE\INCOMING\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGameContent\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\@CODE\INCOMING\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-12-30T00:11:44.9462173+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

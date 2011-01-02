@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstPhoneGame", "MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame.csproj", "{C88CB6DD-257F-4B04-9002-340A2AFF493C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstPhoneGameContent", "MyFirstPhoneGame\MyFirstPhoneGameContent\MyFirstPhoneGameContent.contentproj", "{435A7110-608F-4C6F-9055-4E89CA5AD2EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{F9591894-49E1-4E4E-A1D1-C502BD2E6B33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C88CB6DD-257F-4B04-9002-340A2AFF493C}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{C88CB6DD-257F-4B04-9002-340A2AFF493C}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{C88CB6DD-257F-4B04-9002-340A2AFF493C}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{C88CB6DD-257F-4B04-9002-340A2AFF493C}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{C88CB6DD-257F-4B04-9002-340A2AFF493C}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{C88CB6DD-257F-4B04-9002-340A2AFF493C}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{435A7110-608F-4C6F-9055-4E89CA5AD2EC}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{435A7110-608F-4C6F-9055-4E89CA5AD2EC}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{F9591894-49E1-4E4E-A1D1-C502BD2E6B33}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{F9591894-49E1-4E4E-A1D1-C502BD2E6B33}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{F9591894-49E1-4E4E-A1D1-C502BD2E6B33}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{F9591894-49E1-4E4E-A1D1-C502BD2E6B33}.Release|Windows Phone.Build.0 = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

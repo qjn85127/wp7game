@@ -1,0 +1,2 @@
+C:\Users\Qin Jianan\Desktop\Xna Tutorual\Test Game\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGameContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+F:\@CODE\INCOMING\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGame\MyFirstPhoneGameContent\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
